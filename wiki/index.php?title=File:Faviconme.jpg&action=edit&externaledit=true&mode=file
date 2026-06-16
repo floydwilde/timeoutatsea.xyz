@@ -1,0 +1,11 @@
+[Process]
+Type=Edit file
+Engine=MediaWiki
+Script=http://timeoutatsea.org/index.php
+Server=http://timeoutatsea.org
+Path=
+Special namespace=Special
+
+[File]
+Extension=jpg
+URL=http://timeoutatsea.org/images/5/53/Faviconme.jpg

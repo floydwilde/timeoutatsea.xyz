@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/css" href="http://timeoutatsea.org/skins/common/feed.css?195"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title>TimeOutAtSea  - Recent changes [en]</title>
+		<link>http://timeoutatsea.org/index.php/Special:RecentChanges</link>
+		<description>Track the most recent changes to the wiki in this feed.</description>
+		<language>en</language>
+		<generator>MediaWiki 1.14.1</generator>
+		<lastBuildDate>Sat, 11 Apr 2020 03:45:37 GMT</lastBuildDate>
+	</channel>
+</rss>

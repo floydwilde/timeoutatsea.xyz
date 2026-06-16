@@ -1,0 +1,586 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+				<link rel="shortcut icon" href="/favicon.ico" />
+		<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (English)" />
+		<link rel="copyright" href="http://www.gnu.org/copyleft/fdl.html" />
+		<title>User:Stevertigo/monobook.css - Wikipedia, the free encyclopedia</title>
+		<style type="text/css" media="screen, projection">/*<![CDATA[*/
+			@import "/skins-1.5/common/shared.css?90";
+			@import "/skins-1.5/monobook/main.css?90";
+		/*]]>*/</style>
+		<link rel="stylesheet" type="text/css" media="print" href="/skins-1.5/common/commonPrint.css?90" />
+		<!--[if lt IE 5.5000]><style type="text/css">@import "/skins-1.5/monobook/IE50Fixes.css?90";</style><![endif]-->
+		<!--[if IE 5.5000]><style type="text/css">@import "/skins-1.5/monobook/IE55Fixes.css?90";</style><![endif]-->
+		<!--[if IE 6]><style type="text/css">@import "/skins-1.5/monobook/IE60Fixes.css?90";</style><![endif]-->
+		<!--[if IE 7]><style type="text/css">@import "/skins-1.5/monobook/IE70Fixes.css?90";</style><![endif]-->
+		<!--[if lt IE 7]><script type="text/javascript" src="/skins-1.5/common/IEFixes.js?90"></script>
+		<meta http-equiv="imagetoolbar" content="no" /><![endif]-->
+		
+		<script type= "text/javascript">/*<![CDATA[*/
+var skin = "monobook";
+var stylepath = "/skins-1.5";
+var wgArticlePath = "/wiki/$1";
+var wgScriptPath = "/w";
+var wgScript = "/w/index.php";
+var wgServer = "http://en.wikipedia.org";
+var wgCanonicalNamespace = "User";
+var wgCanonicalSpecialPageName = false;
+var wgNamespaceNumber = 2;
+var wgPageName = "User:Stevertigo/monobook.css";
+var wgTitle = "Stevertigo/monobook.css";
+var wgAction = "view";
+var wgRestrictionEdit = [];
+var wgRestrictionMove = [];
+var wgArticleId = "700086";
+var wgIsArticle = true;
+var wgUserName = null;
+var wgUserGroups = null;
+var wgUserLanguage = "en";
+var wgContentLanguage = "en";
+var wgBreakFrames = false;
+var wgCurRevisionId = "44148789";
+/*]]>*/</script>
+                
+		<script type="text/javascript" src="/skins-1.5/common/wikibits.js?90"><!-- wikibits js --></script>
+		<script type="text/javascript" src="/w/index.php?title=-&amp;action=raw&amp;gen=js&amp;useskin=monobook"><!-- site js --></script>
+		<style type="text/css">/*<![CDATA[*/
+@import "/w/index.php?title=MediaWiki:Common.css&usemsgcache=yes&action=raw&ctype=text/css&smaxage=2678400";
+@import "/w/index.php?title=MediaWiki:Monobook.css&usemsgcache=yes&action=raw&ctype=text/css&smaxage=2678400";
+@import "/w/index.php?title=-&action=raw&gen=css&maxage=2678400";
+/*]]>*/</style>
+		<!-- Head Scripts -->
+		<script type="text/javascript" src="/skins-1.5/common/ajax.js?90"></script>
+<style type="text/css">/*<![CDATA[*/
+.source-css {line-height: normal;}
+.source-css li {line-height: normal;}
+/**
+ * GeSHi Dynamically Generated Stylesheet
+ * --------------------------------------
+ * Dynamically generated stylesheet for css
+ * CSS class: source-css, CSS id: 
+ * GeSHi (C) 2004 - 2007 Nigel McNie (http://qbnz.com/highlighter)
+ */
+.source-css .de1, .source-css .de2 {font-family: 'Courier New', Courier, monospace; font-weight: normal;}
+.source-css  {}
+.source-css .head {}
+.source-css .foot {}
+.source-css .imp {font-weight: bold; color: red;}
+.source-css .ln-xtra {color: #cc0; background-color: #ffc;}
+.source-css li {font-family: 'Courier New', Courier, monospace; color: black; font-weight: normal; font-style: normal;}
+.source-css li.li2 {font-weight: bold;}
+.source-css .kw1 {color: #000000; font-weight: bold;}
+.source-css .kw2 {color: #993333;}
+.source-css .co1 {color: #a1a100;}
+.source-css .coMULTI {color: #808080; font-style: italic;}
+.source-css .es0 {color: #000099; font-weight: bold;}
+.source-css .br0 {color: #66cc66;}
+.source-css .st0 {color: #ff0000;}
+.source-css .nu0 {color: #933;}
+.source-css .re0 {color: #cc00cc;}
+.source-css .re1 {color: #6666ff;}
+.source-css .re2 {color: #3333ff;}
+.source-css .re3 {color: #933;}
+.source-css .re4 {color: #933;}
+
+/*]]>*/
+</style>
+<style type="text/css">/*<![CDATA[*/
+@import "/w/index.php?title=MediaWiki:Geshi.css&usemsgcache=yes&action=raw&ctype=text/css&smaxage=2678400";
+/*]]>*/
+</style>	</head>
+<body  class="mediawiki ns-2 ltr page-User_Stevertigo_monobook_css">
+	<div id="globalWrapper">
+		<div id="column-content">
+	<div id="content">
+		<a name="top" id="top"></a>
+		<div id="siteNotice"><script type="text/javascript" language="JavaScript">
+<!--
+document.writeln("\x3cdiv style=\"text-align:right; font-size:80%\"\x3eYour \x3cb\x3e\x3ca href=\"http://wikimediafoundation.org/wiki/Fundraising\" class=\"extiw\" title=\"wikimedia:Fundraising\"\x3econtinued donations\x3c/a\x3e\x3c/b\x3e keep Wikipedia running!     \x3c/div\x3e\n");
+-->
+</script></div>		<h1 class="firstHeading">User:Stevertigo/monobook.css</h1>
+		<div id="bodyContent">
+			<h3 id="siteSub">From Wikipedia, the free encyclopedia</h3>
+			<div id="contentSub"><span class="subpages">&lt; <a href="/wiki/User:Stevertigo" title="User:Stevertigo">User:Stevertigo</a></span></div>
+									<div id="jump-to-nav">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>			<!-- start content -->
+			<p><span id="clearprefcache"><b>Note:</b> After saving, you have to <a href="/wiki/Wikipedia:Bypass_your_cache" title="Wikipedia:Bypass your cache">bypass your browser's cache</a> to see the changes. <b>Mozilla/Safari:</b> hold down <i>Shift</i> while clicking <i>Reload</i> (or press <i>Ctrl-Shift-R</i>), <b>Internet Explorer:</b> press <i>Ctrl-F5</i>, <b>Opera/Konqueror:</b> press <i>F5</i>.</span>
+</p><div dir="ltr"><pre class="source-css"><span class="re1">.navpopup</span> <span class="br0">&#123;</span> 
+  <span class="kw1">background-color</span>: lightgoldenrodyellow  !important;
+  <span class="kw1">font-family</span>:      sans    !important;
+  <span class="kw1">color</span>:            <span class="re0">#<span class="nu0">000000</span></span>     !important;
+  <span class="kw1">font-size</span>:        <span class="kw2">medium</span>   !important;
+<span class="br0">&#125;</span>
+&nbsp;
+<span class="coMULTI">/* &lt;pre&gt; */</span>  
+<span class="coMULTI">/********************************************
+**                                         ** 
+**      S K I N O R I   B L U E D I        **
+**                                         **
+**  Skin created by [[en:User:Stevertigo]] **
+**                                         **
+**         based on FOSFORI VERDI          **
+**         de [[it:Utente:Kormoran]]       **                                     
+**      Version 1.000001,  May, 2005       **
+**                                         **
+********************************************/</span>
+&nbsp;
+<span class="coMULTI">/* Color defaults */</span> 
+body <span class="br0">&#123;</span>
+    <span class="kw1">background</span>: <span class="re0">#<span class="nu0">111111</span></span>;
+    <span class="kw1">color</span>: <span class="re0">#fafad2</span>;
+<span class="br0">&#125;</span>
+<span class="re0">#content</span> <span class="br0">&#123;</span> <span class="kw1">background</span> : <span class="re0">#<span class="nu0">000000</span></span>; <span class="br0">&#125;</span> 
+<span class="re0">#content</span> <span class="br0">&#123;</span> <span class="kw1">color</span> : <span class="re0">#fafad2</span>; <span class="br0">&#125;</span> 
+<span class="re0">#content</span> <span class="br0">&#123;</span> <span class="kw1">border</span>: <span class="re3">1px</span> <span class="kw2">solid</span> <span class="re0">#<span class="nu0">000980</span></span>; <span class="br0">&#125;</span> 
+<span class="coMULTI">/* Colors of links */</span>
+a <span class="br0">&#123;</span> <span class="kw1">color</span>: <span class="re0">#a38d71</span>; <span class="br0">&#125;</span>
+a<span class="re2">:visited</span> <span class="br0">&#123;</span> <span class="kw1">color</span>: <span class="re0">#<span class="nu0">008080</span></span>; <span class="br0">&#125;</span>
+a<span class="re2">:active</span>, a<span class="re1">.new</span> <span class="br0">&#123;</span> <span class="kw1">color</span>: <span class="re0">#424bb8</span>; <span class="br0">&#125;</span>
+a<span class="re1">.interwiki</span>, a<span class="re1">.external</span> <span class="br0">&#123;</span> <span class="kw1">color</span>: <span class="re0">#798da9</span>; <span class="br0">&#125;</span>
+a<span class="re1">.stub</span> <span class="br0">&#123;</span> <span class="kw1">color</span>: <span class="re0">#798da9</span>; <span class="br0">&#125;</span>
+<span class="coMULTI">/* Colors of edit textbox  */</span>
+textarea <span class="br0">&#123;</span> <span class="kw1">color</span>: <span class="re0">#87ceeb</span>; <span class="br0">&#125;</span>
+textarea <span class="br0">&#123;</span> <span class="kw1">background</span> : <span class="re0">#<span class="nu0">000000</span></span>; <span class="br0">&#125;</span> 
+<span class="coMULTI">/* Case user (that one with the link to the preferences, the page personal customer etc.) */</span>
+&nbsp;
+<span class="re1">.autocomment</span> <span class="br0">&#123;</span> <span class="kw1">color</span>: <span class="re0">#<span class="nu0">151950</span></span>; <span class="br0">&#125;</span>
+fieldset <span class="br0">&#123;</span> 
+    <span class="kw1">background</span>: <span class="kw2">transparent</span>; 
+    <span class="kw1">border</span>: <span class="re3">1px</span> <span class="kw2">solid</span> <span class="re0">#<span class="nu0">000040</span></span>;
+<span class="br0">&#125;</span>
+legend <span class="br0">&#123;</span> 
+    <span class="kw1">background</span>: <span class="kw2">transparent</span>; 
+    <span class="kw1">border</span>: <span class="re3">1px</span> <span class="kw2">solid</span> <span class="re0">#<span class="nu0">000040</span></span>;
+<span class="br0">&#125;</span>
+&nbsp;
+<span class="coMULTI">/* Change diff color */</span>
+span<span class="re1">.diffchange</span> <span class="br0">&#123;</span>
+   <span class="kw1">color</span>: <span class="re0">#<span class="nu0">000080</span></span>;
+<span class="br0">&#125;</span>
+&nbsp;
+hr <span class="br0">&#123;</span>
+    <span class="kw1">color</span>: <span class="re0">#<span class="nu0">000040</span></span>;
+    <span class="kw1">background-color</span>: <span class="re0">#<span class="nu0">000000</span></span>;
+<span class="br0">&#125;</span>
+<span class="coMULTI">/* The warning of new messages */</span>
+<span class="re1">.usermessage</span> <span class="br0">&#123;</span>
+    <span class="kw1">background-color</span>: <span class="re0">#<span class="nu0">000716</span></span>;
+    <span class="kw1">border</span>: <span class="re3">1px</span> <span class="kw2">solid</span> <span class="re0">#502b00</span>;
+    <span class="kw1">color</span>: <span class="re0">#<span class="nu0">678232</span></span>;
+    <span class="kw1">font-weight</span>: <span class="kw2">bold</span>;
+<span class="br0">&#125;</span>
+&nbsp;
+input<span class="re1">.historysubmit</span> <span class="br0">&#123;</span>
+    <span class="kw1">padding</span>: <span class="nu0">0</span> <span class="nu0">0</span><span class="re1"><span class="re3">.3em</span></span> <span class="nu0">0</span><span class="re1"><span class="re3">.3em</span></span> <span class="nu0">0</span><span class="re1"><span class="re3">.3em</span></span> !important;
+    <span class="kw1">font-size</span>: <span class="re3"><span class="nu0">94</span>%</span>;
+    <span class="kw1">cursor</span>: <span class="kw2">pointer</span>;
+    <span class="kw1">height</span>: <span class="nu0">1</span><span class="re1"><span class="re3">.7em</span></span> !important;
+    <span class="kw1">margin-left</span>: <span class="nu0">1</span><span class="re1"><span class="re3">.6em</span></span>;
+<span class="br0">&#125;</span>
+input<span class="br0">&#91;</span>type=<span class="st0">&quot;radio&quot;</span><span class="br0">&#93;</span>,
+input<span class="br0">&#91;</span>type=<span class="st0">&quot;checkbox&quot;</span><span class="br0">&#93;</span> <span class="br0">&#123;</span> border<span class="re2">:none</span>; <span class="br0">&#125;</span>
+select <span class="br0">&#123;</span>
+    <span class="kw1">background-color</span>: <span class="re0">#<span class="nu0">000016</span></span>;
+    <span class="kw1">border</span>: <span class="re3">1px</span> <span class="kw2">solid</span> <span class="re0">#<span class="nu0">000980</span></span>;  
+    <span class="kw1">color</span>: <span class="re0">#0041a2</span>;
+    <span class="kw1">vertical-align</span>: <span class="kw1">top</span>;
+<span class="br0">&#125;</span>
+&nbsp;
+<span class="re0">#p-personal</span> li a <span class="br0">&#123;</span> <span class="kw1">color</span>: <span class="re0">#6A69A1</span>; <span class="br0">&#125;</span> 
+&nbsp;
+<span class="coMULTI">/* This regards the icon next to the name li#pt-userpage { background:  none}*/</span>
+&nbsp;
+<span class="re0">#infobox</span> <span class="br0">&#123;</span> <span class="kw1">background</span>: <span class="re0">#<span class="nu0">000520</span></span>;
+           <span class="kw1">color</span>: <span class="re0">#00FFFF</span>;
+           <span class="kw1">border</span>: ipx <span class="kw2">solid</span> <span class="re0">#<span class="nu0">000044</span></span>
+<span class="br0">&#125;</span>
+&nbsp;
+<span class="coMULTI">/* Nuvologo */</span>
+<span class="coMULTI">/* Use one of these:
+http://upload.wikimedia.org/wikipedia/commons/e/e1/Wikipedia-logo-en-Gold.png
+http://upload.wikimedia.org/wikipedia/commons/7/7e/Barnstar-rotating.gif
+http://upload.wikimedia.org/wikipedia/commons/7/78/Wikinews-trans_135px_ohne_text.png
+http://upload.wikimedia.org/wikipedia/commons/7/76/WIKIFONDATION3D.PNG
+http://upload.wikimedia.org/wikipedia/commons/2/2d/Wikimedia_without_text.png http://upload.wikimedia.org/wikipedia/commons/d/d2/Squash_WIkicommons_3.png
+http://upload.wikimedia.org/wikipedia/commons/1/11/Barnstar.png
+*/</span>
+&nbsp;
+<span class="re0">#p-logo</span> <span class="br0">&#123;</span> 
+    <span class="kw1">background</span>: <span class="kw2">url</span><span class="br0">&#40;</span><span class="re4">http://upload<span class="re1">.wikimedia</span><span class="re1">.org</span>/wikipedia/commons/e/e1/Wikipedia-logo-en-Gold<span class="re1">.png</span></span><span class="br0">&#41;</span> <span class="kw2">no-repeat</span>; 
+    <span class="kw1">display</span>: <span class="kw2">none</span>
+    position<span class="re2">:absolute</span>;  <span class="coMULTI">/*needed to use z-index */</span>
+    <span class="kw1">top</span>: <span class="nu0">8</span>;
+    <span class="kw1">left</span>: <span class="nu0">100</span>;
+    <span class="kw1">right</span>: <span class="nu0">65</span>;
+    <span class="kw1">height</span>: <span class="nu0">0</span>;
+    <span class="kw1">width</span>: <span class="nu0">0</span>;
+    <span class="kw1">padding</span>: <span class="nu0">0</span> <span class="nu0">0</span> <span class="re3">150px</span> <span class="re3">150px</span>;
+    <span class="kw1">overflow</span>: <span class="kw2">hidden</span>;
+<span class="br0">&#125;</span>
+&nbsp;
+&nbsp;
+<span class="coMULTI">/* Color of the edit search window  */</span>
+<span class="re0">#searchInput</span> <span class="br0">&#123;</span> 
+    <span class="kw1">border</span>: <span class="re3">1px</span> <span class="kw2">inset</span> !important; 
+    <span class="kw1">color</span>: <span class="re0">#a6afd0</span>; 
+    <span class="kw1">background</span> : <span class="re0">#<span class="nu0">000000</span></span>; 
+<span class="br0">&#125;</span> 
+&nbsp;
+input<span class="re1">.searchButton</span> <span class="re1">.pBody</span> <span class="br0">&#123;</span> 
+    <span class="kw1">background</span> : <span class="re0">#<span class="nu0">000000</span></span>; 
+<span class="coMULTI">/*    border: 2px solid #004000; */</span>
+    <span class="kw1">color</span> : <span class="re0">#0048ff</span>; 
+<span class="br0">&#125;</span>
+input<span class="re1">.searchButton</span> <span class="br0">&#123;</span> 
+    <span class="kw1">background</span> : <span class="re0">#<span class="nu0">000000</span></span>; 
+    <span class="kw1">border-top</span>: <span class="re3">2px</span> <span class="kw2">solid</span> <span class="re0">#<span class="nu0">002222</span></span>;
+    <span class="kw1">border-left</span>: <span class="re3">2px</span> <span class="kw2">solid</span> <span class="re0">#<span class="nu0">002222</span></span>;
+    <span class="kw1">border-right</span>: <span class="re3">2px</span> <span class="kw2">solid</span> <span class="re0">#<span class="nu0">008080</span></span>;
+    <span class="kw1">border-bottom</span>: <span class="re3">2px</span> <span class="kw2">solid</span> <span class="re0">#<span class="nu0">008080</span></span>;
+    <span class="kw1">color</span> : <span class="re0">#<span class="nu0">162756</span></span>; 
+<span class="br0">&#125;</span>
+<span class="re0">#p-search</span> <span class="br0">&#123;</span> <span class="kw1">background</span>: <span class="re0">#<span class="nu0">333451</span></span>; 
+    <span class="kw1">color</span>: Black; 
+<span class="br0">&#125;</span>
+<span class="re0">#p-search</span> <span class="re1">.pBody</span> <span class="br0">&#123;</span> 
+    <span class="kw1">background</span>: <span class="re0">#<span class="nu0">000000</span></span>;
+    <span class="kw1">border</span>: <span class="re3">1px</span> <span class="kw2">solid</span> <span class="re0">#<span class="nu0">000666</span></span>;
+<span class="br0">&#125;</span>
+<span class="coMULTI">/* Color of the case Navigation in the column to flank */</span>
+<span class="re0">#p-nav</span> <span class="br0">&#123;</span> <span class="kw1">background-color</span>: <span class="re0">#<span class="nu0">111111</span></span>; <span class="br0">&#125;</span>
+<span class="re0">#p-nav</span> <span class="br0">&#123;</span> <span class="kw1">color</span>: Gray; <span class="br0">&#125;</span>
+<span class="re0">#p-nav</span> <span class="re1">.pBody</span> <span class="br0">&#123;</span> 
+    <span class="kw1">background-color</span>: <span class="re0">#<span class="nu0">000000</span></span>; 
+    <span class="kw1">border</span>: <span class="re3">1px</span> <span class="kw2">solid</span> <span class="re0">#<span class="nu0">000040</span></span>;
+<span class="br0">&#125;</span>
+<span class="coMULTI">/* Color of the case?  in the column to flank */</span>
+<span class="re0">#p-tbx</span> <span class="br0">&#123;</span> <span class="kw1">background</span>: <span class="re0">#<span class="nu0">000040</span></span>; <span class="br0">&#125;</span>
+<span class="re0">#p-tbx</span> <span class="re1">.pBody</span> <span class="br0">&#123;</span> 
+    <span class="kw1">background-color</span>: <span class="re0">#<span class="nu0">000000</span></span>; 
+    <span class="kw1">border</span>: <span class="re3">1px</span> <span class="kw2">solid</span> <span class="re0">#<span class="nu0">000040</span></span>;
+<span class="br0">&#125;</span>
+<span class="coMULTI">/* Color of the case toolbox in the column to flank */</span>
+<span class="re0">#p-tb</span> <span class="br0">&#123;</span> <span class="kw1">background</span>: <span class="re0">#<span class="nu0">000040</span></span>; <span class="br0">&#125;</span>
+<span class="re0">#p-tb</span> <span class="re1">.pBody</span> <span class="br0">&#123;</span> 
+    <span class="kw1">background-color</span>: <span class="re0">#<span class="nu0">000000</span></span>; 
+    <span class="kw1">border</span>: <span class="re3">1px</span> <span class="kw2">solid</span> <span class="re0">#<span class="nu0">000040</span></span>;
+<span class="br0">&#125;</span>
+<span class="coMULTI">/* Color of the case Other Languages in the column to flank */</span>
+<span class="re0">#p-lang</span> <span class="br0">&#123;</span> <span class="kw1">background</span>: <span class="re0">#<span class="nu0">000040</span></span>; <span class="br0">&#125;</span>
+<span class="re0">#p-lang</span> <span class="re1">.pBody</span> <span class="br0">&#123;</span> 
+    <span class="kw1">background-color</span>: <span class="re0">#<span class="nu0">000000</span></span>; 
+    <span class="kw1">border</span>: <span class="re3">1px</span> <span class="kw2">solid</span> <span class="re0">#<span class="nu0">000040</span></span>;
+<span class="br0">&#125;</span>
+&nbsp;
+&nbsp;
+<span class="coMULTI">/* This code adds the Wiki editing tabs to the bottom of the box (but it does not act as with IE and clients also thread monobook.js... to see my page customer) */</span>
+<span class="re0">#mytabs</span> <span class="br0">&#123;</span>
+    <span class="kw1">margin</span>: <span class="nu0">-0</span><span class="re1"><span class="re3">.3em</span></span> <span class="nu0">0</span> <span class="nu0">0</span>  <span class="nu0">11</span><span class="re1"><span class="re3">.5em</span></span>;
+    <span class="kw1">border</span>: <span class="re3">1px</span> <span class="kw2">solid</span> <span class="re0">#07078E</span>;
+    white-space<span class="re2">:nowrap</span>;
+    <span class="kw1">line-height</span>: <span class="nu0">1</span><span class="re1"><span class="re3">.1em</span></span>;
+    <span class="kw1">overflow</span>: <span class="kw2">visible</span>;
+    <span class="kw1">border-collapse</span>: <span class="kw2">collapse</span>;
+    <span class="kw1">padding</span>: <span class="nu0">0</span> <span class="nu0">0</span> <span class="nu0">0</span> <span class="re3">1em</span>;
+    <span class="kw1">list-style</span>: <span class="kw2">none</span>;
+    <span class="kw1">font-size</span>: <span class="re3"><span class="nu0">85</span>%</span>;
+<span class="br0">&#125;</span>
+<span class="re0">#mytabs</span> <span class="re1">.hiddenStructure</span> <span class="br0">&#123;</span> <span class="kw1">display</span>: <span class="kw2">none</span>; <span class="br0">&#125;</span>
+<span class="re0">#mytabs</span> li <span class="br0">&#123;</span>
+    <span class="kw1">display</span>: <span class="kw2">inline</span>;
+    <span class="kw1">border</span>: <span class="re3">1px</span> <span class="kw2">solid</span> <span class="re0">#<span class="nu0">000040</span></span>;
+    <span class="kw1">border-top</span>: <span class="kw2">none</span>;
+    <span class="kw1">padding</span>: <span class="nu0">0</span><span class="re1"><span class="re3">.1em</span></span> <span class="nu0">0</span> <span class="nu0">0</span> <span class="nu0">0</span>;
+    <span class="kw1">margin</span>: <span class="nu0">0</span> <span class="nu0">0</span><span class="re1"><span class="re3">.3em</span></span> <span class="nu0">0</span> <span class="nu0">0</span>;
+    <span class="kw1">overflow</span>: <span class="kw2">visible</span>;
+    <span class="kw1">background</span>: <span class="re0">#<span class="nu0">000000</span></span>;
+    <span class="kw1">color</span>: <span class="re0">#70a0ff</span>;
+<span class="br0">&#125;</span>
+<span class="re0">#mytabs</span> li<span class="re1">.selected</span> <span class="br0">&#123;</span>
+    <span class="kw1">border-color</span>: <span class="re0">#<span class="nu0">000033</span></span>;
+    <span class="kw1">padding</span>: <span class="nu0">0</span><span class="re1"><span class="re3">.2em</span></span> <span class="nu0">0</span> <span class="nu0">0</span> <span class="nu0">0</span>;
+<span class="br0">&#125;</span>
+<span class="re0">#mytabs</span> li a <span class="br0">&#123;</span>
+    <span class="kw1">background-color</span>: <span class="re0">#<span class="nu0">000000</span></span>;;
+    <span class="kw1">color</span>: <span class="re0">#<span class="nu0">003091</span></span>;
+    <span class="kw1">border</span>: <span class="kw2">none</span>;
+    <span class="kw1">padding</span>: <span class="nu0">0</span><span class="re1"><span class="re3">.3em</span></span> <span class="nu0">0</span><span class="re1"><span class="re3">.8em</span></span> <span class="nu0">0</span> <span class="nu0">0</span><span class="re1"><span class="re3">.8em</span></span>;
+    <span class="kw1">text-decoration</span>: <span class="kw2">none</span>;
+    <span class="kw1">text-transform</span>: <span class="kw2">lowercase</span>;
+    <span class="kw1">position</span>: <span class="kw2">relative</span>;
+    <span class="kw1">margin</span>: <span class="nu0">0</span>;
+<span class="br0">&#125;</span>
+<span class="re0">#mytabs</span> li<span class="re1">.selected</span> a <span class="br0">&#123;</span> <span class="kw1">z-index</span>: <span class="nu0">3</span>; <span class="br0">&#125;</span>
+<span class="re0">#mytabs</span> <span class="re1">.new</span> a <span class="br0">&#123;</span> <span class="kw1">color</span>:<span class="re0">#ffb940</span>; <span class="br0">&#125;</span>
+<span class="re0">#mytabs</span> li a<span class="re2">:hover</span> <span class="br0">&#123;</span>
+    <span class="kw1">z-index</span>: <span class="nu0">3</span>;
+    <span class="kw1">text-decoration</span>: <span class="kw2">none</span>;
+<span class="br0">&#125;</span>
+<span class="re0">#mytabs</span> h5 <span class="br0">&#123;</span> <span class="kw1">display</span>: <span class="kw2">none</span>; <span class="br0">&#125;</span>
+<span class="re0">#mytabs</span> li<span class="re1">.istalk</span> <span class="br0">&#123;</span> <span class="kw1">margin-right</span>: <span class="nu0">0</span>; <span class="br0">&#125;</span>
+<span class="re0">#mytabs</span> li<span class="re1">.istalk</span> a <span class="br0">&#123;</span> <span class="kw1">padding-right</span>: <span class="nu0">0</span><span class="re1"><span class="re3">.5em</span></span>; <span class="br0">&#125;</span>
+<span class="re0">#mytabs-ca-addsection</span> a <span class="br0">&#123;</span> 
+    <span class="kw1">padding-left</span>: <span class="nu0">0</span><span class="re1"><span class="re3">.4em</span></span>;
+    <span class="kw1">padding-right</span>: <span class="nu0">0</span><span class="re1"><span class="re3">.4em</span></span>;
+<span class="br0">&#125;</span>
+<span class="coMULTI">/* offset per separare i gruppi di tab */</span>
+li<span class="re0">#mytabs-ca-talk</span> <span class="br0">&#123;</span> <span class="kw1">margin-right</span>: <span class="nu0">1</span><span class="re1"><span class="re3">.6em</span></span>; <span class="br0">&#125;</span>
+li<span class="re0">#mytabs-ca-watch</span> <span class="br0">&#123;</span> <span class="kw1">margin-left</span>: <span class="nu0">1</span><span class="re1"><span class="re3">.6em</span></span>; <span class="br0">&#125;</span>
+&nbsp;
+<span class="coMULTI">/* Color of the box of the explanations, the acronyms and the abbreviations*/</span>
+abbr, acronym, <span class="re1">.explain</span> <span class="br0">&#123;</span>
+    <span class="kw1">border-bottom</span>: <span class="re3">1px</span> <span class="kw2">dotted</span> <span class="re0">#<span class="nu0">000040</span></span>;
+    <span class="kw1">color</span>: <span class="kw1">black</span>;
+    <span class="kw1">background</span>: <span class="re0">#<span class="nu0">000020</span></span>;
+    <span class="kw1">cursor</span>: <span class="kw2">help</span>;
+<span class="br0">&#125;</span>
+&nbsp;
+<span class="coMULTI">/* Color of code fragments */</span>
+code <span class="br0">&#123;</span> <span class="kw1">background-color</span>: <span class="re0">#<span class="nu0">005555</span></span>; <span class="br0">&#125;</span>
+code <span class="br0">&#123;</span> <span class="kw1">color</span>: Black <span class="br0">&#125;</span>
+<span class="coMULTI">/* Color of the preformatted text */</span>
+pre <span class="br0">&#123;</span>
+    <span class="kw1">padding</span>: <span class="re3">1em</span>;
+    <span class="kw1">border</span>: <span class="re3">1px</span> <span class="kw2">dashed</span> <span class="re0">#00AAAA</span>;
+    <span class="kw1">color</span>: <span class="kw2">gray</span>;
+    <span class="kw1">background-color</span>: <span class="re0">#<span class="nu0">000020</span></span>;
+    <span class="kw1">line-height</span>: <span class="nu0">1</span><span class="re1"><span class="re3">.1em</span></span>;
+<span class="br0">&#125;</span>
+&nbsp;
+h1, h2, h3, h4, h5, h6 <span class="br0">&#123;</span> <span class="kw1">color</span>: <span class="re0">#c0c0c0</span>; <span class="br0">&#125;</span>
+<span class="re0">#bodyContent</span> h1 <span class="br0">&#123;</span> <span class="kw1">color</span> : <span class="re0">#c0c0c0</span>; <span class="br0">&#125;</span>
+<span class="re0">#bodyContent</span> h2 <span class="br0">&#123;</span> <span class="kw1">color</span> : <span class="re0">#c0c0c0</span>; <span class="br0">&#125;</span>
+<span class="re0">#bodyContent</span> h3 <span class="br0">&#123;</span> <span class="kw1">color</span> : <span class="re0">#c0c0c0</span>; <span class="br0">&#125;</span>
+<span class="re0">#bodyContent</span> h4 <span class="br0">&#123;</span> <span class="kw1">color</span> : <span class="re0">#c0c0c0</span>; <span class="br0">&#125;</span>
+<span class="re0">#bodyContent</span> h5 <span class="br0">&#123;</span> <span class="kw1">color</span> : <span class="re0">#c0c0c0</span>; <span class="br0">&#125;</span>
+<span class="re0">#bodyContent</span> h6 <span class="br0">&#123;</span> <span class="kw1">color</span> : <span class="re0">#c0c0c0</span>; <span class="br0">&#125;</span>
+h1 <span class="br0">&#123;</span> <span class="kw1">border-bottom</span>: <span class="re3">2px</span> <span class="kw2">solid</span> <span class="re0">#<span class="nu0">000080</span></span>; <span class="br0">&#125;</span>
+h2 <span class="br0">&#123;</span> <span class="kw1">border-bottom</span>: <span class="re3">1px</span> <span class="kw2">solid</span> <span class="re0">#<span class="nu0">000080</span></span>; <span class="br0">&#125;</span>
+&nbsp;
+&nbsp;
+<span class="coMULTI">/* Color of background of the tables */</span>
+table <span class="br0">&#123;</span> <span class="kw1">background</span>: <span class="re0">#c0c0c0</span>; <span class="br0">&#125;</span>
+<span class="coMULTI">/* Color of the summary of the article */</span>
+<span class="re0">#toc</span> <span class="br0">&#123;</span> <span class="kw1">background</span>: <span class="re0">#<span class="nu0">000020</span></span>; <span class="br0">&#125;</span>
+<span class="re0">#toc</span> <span class="br0">&#123;</span> <span class="kw1">border</span>: <span class="re3">1px</span> <span class="kw2">solid</span> <span class="re0">#<span class="nu0">000080</span></span>; <span class="br0">&#125;</span>
+&nbsp;
+<span class="coMULTI">/*------------------------------------------------------*/</span>
+<span class="coMULTI">/* 
+I #p-cactions regarding actions of tabs on several Wiki pages (modification, chronology, argument etc.):  the ns-xx refer instead to the namespace number xx:  here the numbers of some namespace
+'0': 'article'  
+'2': 'user'  
+'4': 'wikipedia'  
+'6': 'image'  
+'8': 'mediawiki'  
+'10': 'Template'  
+'12': 'help'  
+'14': 'Category' */</span>  
+&nbsp;
+<span class="coMULTI">/* Colors of bottom of articles */</span> 
+<span class="re1">.ns<span class="nu0">-0</span></span> * <span class="re0">#content</span> <span class="br0">&#123;</span> <span class="kw1">background</span> : <span class="re0">#<span class="nu0">000000</span></span>; <span class="br0">&#125;</span> 
+<span class="re1">.ns<span class="nu0">-0</span></span> * <span class="re0">#content</span> <span class="br0">&#123;</span> <span class="kw1">color</span> : <span class="re0">#c0c0c0</span>; <span class="br0">&#125;</span> 
+<span class="re1">.ns<span class="nu0">-0</span></span> * <span class="re0">#p-cactions</span> li <span class="br0">&#123;</span> <span class="kw1">background</span> : <span class="re0">#<span class="nu0">000000</span></span>; <span class="br0">&#125;</span> 
+<span class="re1">.ns<span class="nu0">-0</span></span> * <span class="re0">#p-cactions</span> li a <span class="br0">&#123;</span> <span class="kw1">background</span> : <span class="re0">#<span class="nu0">000000</span></span>; <span class="br0">&#125;</span>  
+<span class="re1">.ns<span class="nu0">-0</span></span> * <span class="re0">#p-cactions</span> li a <span class="br0">&#123;</span> <span class="kw1">color</span> : <span class="re0">#00bbbb</span>; <span class="br0">&#125;</span>  
+<span class="coMULTI">/* Colors at bottom of the Article talk pages */</span> 
+<span class="re1">.ns<span class="nu0">-1</span></span> * <span class="re0">#content</span> <span class="br0">&#123;</span> <span class="kw1">background</span> : <span class="re0">#<span class="nu0">000000</span></span>; <span class="br0">&#125;</span> 
+<span class="re1">.ns<span class="nu0">-1</span></span> * <span class="re0">#content</span> <span class="br0">&#123;</span> <span class="kw1">color</span> : <span class="re0">#c0c0c0</span>; <span class="br0">&#125;</span> 
+<span class="re1">.ns<span class="nu0">-1</span></span> * <span class="re0">#p-cactions</span> li <span class="br0">&#123;</span> <span class="kw1">background</span> : <span class="re0">#<span class="nu0">000000</span></span>; <span class="br0">&#125;</span> 
+<span class="re1">.ns<span class="nu0">-1</span></span> * <span class="re0">#p-cactions</span> li a <span class="br0">&#123;</span> <span class="kw1">background</span> : <span class="re0">#<span class="nu0">000000</span></span>; <span class="br0">&#125;</span> 
+<span class="re1">.ns<span class="nu0">-1</span></span> * <span class="re0">#p-cactions</span> li a <span class="br0">&#123;</span> <span class="kw1">color</span> : <span class="re0">#00bbbb</span>; <span class="br0">&#125;</span>  
+ <span class="coMULTI">/* Colors at bottom of the User pages */</span> 
+<span class="re1">.ns<span class="nu0">-2</span></span> * <span class="re0">#content</span> <span class="br0">&#123;</span> <span class="kw1">background</span> : <span class="re0">#<span class="nu0">000000</span></span>; <span class="br0">&#125;</span> 
+<span class="re1">.ns<span class="nu0">-2</span></span> * <span class="re0">#content</span> <span class="br0">&#123;</span> <span class="kw1">color</span> : <span class="re0">#c0c0c0</span>; <span class="br0">&#125;</span> 
+<span class="re1">.ns<span class="nu0">-2</span></span> * <span class="re0">#p-cactions</span> li <span class="br0">&#123;</span> <span class="kw1">background</span> : <span class="re0">#<span class="nu0">000000</span></span>; <span class="br0">&#125;</span> 
+<span class="re1">.ns<span class="nu0">-2</span></span> * <span class="re0">#p-cactions</span> li a <span class="br0">&#123;</span> <span class="kw1">background</span> : <span class="re0">#<span class="nu0">000000</span></span>; <span class="br0">&#125;</span>  
+<span class="re1">.ns<span class="nu0">-2</span></span> * <span class="re0">#p-cactions</span> li a <span class="br0">&#123;</span> <span class="kw1">color</span> : <span class="re0">#00bbbb</span>; <span class="br0">&#125;</span>  
+<span class="coMULTI">/* Colors at bottom of the User talk pages */</span> 
+<span class="re1">.ns<span class="nu0">-3</span></span> * <span class="re0">#content</span> <span class="br0">&#123;</span> <span class="kw1">background</span> : <span class="re0">#<span class="nu0">000000</span></span>; <span class="br0">&#125;</span> 
+<span class="re1">.ns<span class="nu0">-3</span></span> * <span class="re0">#content</span> <span class="br0">&#123;</span> <span class="kw1">color</span> : <span class="re0">#c6c3c6</span>; <span class="br0">&#125;</span> 
+<span class="re1">.ns<span class="nu0">-3</span></span> * <span class="re0">#p-cactions</span> li <span class="br0">&#123;</span> <span class="kw1">background</span> : <span class="re0">#<span class="nu0">000000</span></span>; <span class="br0">&#125;</span> 
+<span class="re1">.ns<span class="nu0">-3</span></span> * <span class="re0">#p-cactions</span> li a <span class="br0">&#123;</span> <span class="kw1">background</span> : <span class="re0">#<span class="nu0">000000</span></span>; <span class="br0">&#125;</span>  
+<span class="re1">.ns<span class="nu0">-3</span></span> * <span class="re0">#p-cactions</span> li a <span class="br0">&#123;</span> <span class="kw1">color</span> : <span class="re0">#7070FF</span>; <span class="br0">&#125;</span>  
+<span class="coMULTI">/* Colors at bottom of Wikipedia pages */</span> 
+<span class="re1">.ns<span class="nu0">-4</span></span> * <span class="re0">#content</span> <span class="br0">&#123;</span> <span class="kw1">background</span> : <span class="re0">#<span class="nu0">000000</span></span>; <span class="br0">&#125;</span> 
+<span class="re1">.ns<span class="nu0">-4</span></span> * <span class="re0">#content</span> <span class="br0">&#123;</span> <span class="kw1">color</span> : <span class="re0">#c0c0c0</span>; <span class="br0">&#125;</span> 
+<span class="re1">.ns<span class="nu0">-4</span></span> * <span class="re0">#p-cactions</span> li <span class="br0">&#123;</span> <span class="kw1">background</span> : <span class="re0">#<span class="nu0">000000</span></span>; <span class="br0">&#125;</span> 
+<span class="re1">.ns<span class="nu0">-4</span></span> * <span class="re0">#p-cactions</span> li a <span class="br0">&#123;</span> <span class="kw1">background</span> : <span class="re0">#<span class="nu0">000000</span></span>; <span class="br0">&#125;</span>  
+<span class="re1">.ns<span class="nu0">-4</span></span> * <span class="re0">#p-cactions</span> li a <span class="br0">&#123;</span> <span class="kw1">color</span> : <span class="re0">#00bbbb</span>; <span class="br0">&#125;</span>  
+<span class="coMULTI">/* Colors at bottom of the Wikipedia talk pages */</span> 
+<span class="re1">.ns<span class="nu0">-5</span></span> * <span class="re0">#content</span> <span class="br0">&#123;</span> <span class="kw1">background</span> : <span class="re0">#<span class="nu0">000000</span></span>; <span class="br0">&#125;</span> 
+<span class="re1">.ns<span class="nu0">-5</span></span> * <span class="re0">#content</span> <span class="br0">&#123;</span> <span class="kw1">color</span> : <span class="re0">#00bbbb</span>; <span class="br0">&#125;</span> 
+<span class="re1">.ns<span class="nu0">-5</span></span> * <span class="re0">#p-cactions</span> li <span class="br0">&#123;</span> <span class="kw1">background</span> : <span class="re0">#<span class="nu0">000000</span></span>; <span class="br0">&#125;</span> 
+<span class="re1">.ns<span class="nu0">-5</span></span> * <span class="re0">#p-cactions</span> li a <span class="br0">&#123;</span> <span class="kw1">background</span> : <span class="re0">#<span class="nu0">000000</span></span>; <span class="br0">&#125;</span>  
+<span class="re1">.ns<span class="nu0">-5</span></span> * <span class="re0">#p-cactions</span> li a <span class="br0">&#123;</span> <span class="kw1">color</span> : <span class="re0">#00bbbb</span>; <span class="br0">&#125;</span>  
+<span class="coMULTI">/* Colors of bottom of the Image talk pages */</span> 
+<span class="re1">.ns<span class="nu0">-7</span></span> * <span class="re0">#content</span> <span class="br0">&#123;</span> <span class="kw1">background</span> : <span class="re0">#<span class="nu0">000000</span></span>; <span class="br0">&#125;</span> 
+<span class="re1">.ns<span class="nu0">-7</span></span> * <span class="re0">#content</span> <span class="br0">&#123;</span> <span class="kw1">color</span> : <span class="re0">#c0c0c0</span>; <span class="br0">&#125;</span> 
+<span class="re1">.ns<span class="nu0">-7</span></span> * <span class="re0">#p-cactions</span> li <span class="br0">&#123;</span> <span class="kw1">background</span> : <span class="re0">#<span class="nu0">000000</span></span>; <span class="br0">&#125;</span> 
+<span class="re1">.ns<span class="nu0">-7</span></span> * <span class="re0">#p-cactions</span> li a <span class="br0">&#123;</span> <span class="kw1">background</span> : <span class="re0">#<span class="nu0">000000</span></span>; <span class="br0">&#125;</span>  
+<span class="re1">.ns<span class="nu0">-7</span></span> * <span class="re0">#p-cactions</span> li a <span class="br0">&#123;</span> <span class="kw1">color</span> : <span class="re0">#00bbbb</span>; <span class="br0">&#125;</span>  
+<span class="coMULTI">/* Colors of bottom of the MediaWiki pages*/</span> 
+<span class="re1">.ns<span class="nu0">-8</span></span> * <span class="re0">#content</span> <span class="br0">&#123;</span> <span class="kw1">background</span> : <span class="re0">#<span class="nu0">000000</span></span>; <span class="br0">&#125;</span> 
+<span class="re1">.ns<span class="nu0">-8</span></span> * <span class="re0">#content</span> <span class="br0">&#123;</span> <span class="kw1">color</span> : <span class="re0">#c0c0c0</span>; <span class="br0">&#125;</span> 
+<span class="re1">.ns<span class="nu0">-8</span></span> * <span class="re0">#p-cactions</span> li <span class="br0">&#123;</span> <span class="kw1">background</span> : <span class="re0">#<span class="nu0">000000</span></span>; <span class="br0">&#125;</span> 
+<span class="re1">.ns<span class="nu0">-8</span></span> * <span class="re0">#p-cactions</span> li a <span class="br0">&#123;</span> <span class="kw1">background</span> : <span class="re0">#<span class="nu0">000000</span></span>; <span class="br0">&#125;</span>  
+<span class="re1">.ns<span class="nu0">-8</span></span> * <span class="re0">#p-cactions</span> li a <span class="br0">&#123;</span> <span class="kw1">color</span> : <span class="re0">#00bbbb</span>; <span class="br0">&#125;</span>  
+<span class="coMULTI">/* Colors of bottom of the pages of MediaWiki talk */</span> 
+<span class="re1">.ns<span class="nu0">-9</span></span> * <span class="re0">#content</span> <span class="br0">&#123;</span> <span class="kw1">background</span> : <span class="re0">#<span class="nu0">000000</span></span>; <span class="br0">&#125;</span> 
+<span class="re1">.ns<span class="nu0">-9</span></span> * <span class="re0">#content</span> <span class="br0">&#123;</span> <span class="kw1">color</span> : <span class="re0">#c0c0c0</span>; <span class="br0">&#125;</span> 
+<span class="re1">.ns<span class="nu0">-9</span></span> * <span class="re0">#p-cactions</span> li <span class="br0">&#123;</span> <span class="kw1">background</span> : <span class="re0">#<span class="nu0">000000</span></span>; <span class="br0">&#125;</span> 
+<span class="re1">.ns<span class="nu0">-9</span></span> * <span class="re0">#p-cactions</span> li a <span class="br0">&#123;</span> <span class="kw1">background</span> : <span class="re0">#<span class="nu0">000000</span></span>; <span class="br0">&#125;</span>  
+<span class="re1">.ns<span class="nu0">-9</span></span> * <span class="re0">#p-cactions</span> li a <span class="br0">&#123;</span> <span class="kw1">color</span> : <span class="re0">#00bbbb</span>; <span class="br0">&#125;</span>  
+<span class="coMULTI">/* Colors of bottom of the template pages of */</span> 
+<span class="re1">.ns<span class="nu0">-10</span></span> * <span class="re0">#content</span> <span class="br0">&#123;</span> <span class="kw1">background</span> : <span class="re0">#<span class="nu0">000000</span></span>; <span class="br0">&#125;</span> 
+<span class="re1">.ns<span class="nu0">-10</span></span> * <span class="re0">#content</span> <span class="br0">&#123;</span> <span class="kw1">color</span> : <span class="re0">#c0c0c0</span>; <span class="br0">&#125;</span> 
+<span class="re1">.ns<span class="nu0">-10</span></span> * <span class="re0">#p-cactions</span> li <span class="br0">&#123;</span> <span class="kw1">background</span> : <span class="re0">#<span class="nu0">000000</span></span>; <span class="br0">&#125;</span> 
+<span class="re1">.ns<span class="nu0">-10</span></span> * <span class="re0">#p-cactions</span> li a <span class="br0">&#123;</span> <span class="kw1">background</span> : <span class="re0">#<span class="nu0">000000</span></span>; <span class="br0">&#125;</span>  
+<span class="re1">.ns<span class="nu0">-10</span></span> * <span class="re0">#p-cactions</span> li a <span class="br0">&#123;</span> <span class="kw1">color</span> : <span class="re0">#00bbbb</span>; <span class="br0">&#125;</span>  
+<span class="coMULTI">/* Colors of bottom of the template talk pages */</span> 
+<span class="re1">.ns<span class="nu0">-11</span></span> * <span class="re0">#content</span> <span class="br0">&#123;</span> <span class="kw1">background</span> : <span class="re0">#<span class="nu0">000000</span></span>; <span class="br0">&#125;</span> 
+<span class="re1">.ns<span class="nu0">-11</span></span> * <span class="re0">#content</span> <span class="br0">&#123;</span> <span class="kw1">color</span> : <span class="re0">#c0c0c0</span>; <span class="br0">&#125;</span> 
+<span class="re1">.ns<span class="nu0">-11</span></span> * <span class="re0">#p-cactions</span> li <span class="br0">&#123;</span> <span class="kw1">background</span> : <span class="re0">#<span class="nu0">000000</span></span>; <span class="br0">&#125;</span> 
+<span class="re1">.ns<span class="nu0">-11</span></span> * <span class="re0">#p-cactions</span> li a <span class="br0">&#123;</span> <span class="kw1">background</span> : <span class="re0">#<span class="nu0">000000</span></span>; <span class="br0">&#125;</span>  
+<span class="re1">.ns<span class="nu0">-11</span></span> * <span class="re0">#p-cactions</span> li a <span class="br0">&#123;</span> <span class="kw1">color</span> : <span class="re0">#00bbbb</span>; <span class="br0">&#125;</span>  
+<span class="coMULTI">/* Colors of bottom of the Help pages */</span> 
+<span class="re1">.ns<span class="nu0">-12</span></span> * <span class="re0">#content</span> <span class="br0">&#123;</span> <span class="kw1">background</span> : <span class="re0">#<span class="nu0">000000</span></span>; <span class="br0">&#125;</span> 
+<span class="re1">.ns<span class="nu0">-12</span></span> * <span class="re0">#content</span> <span class="br0">&#123;</span> <span class="kw1">color</span> : <span class="re0">#c0c0c0</span>; <span class="br0">&#125;</span> 
+<span class="re1">.ns<span class="nu0">-12</span></span> * <span class="re0">#p-cactions</span> li <span class="br0">&#123;</span> <span class="kw1">background</span> : <span class="re0">#<span class="nu0">000000</span></span>; <span class="br0">&#125;</span> 
+<span class="re1">.ns<span class="nu0">-12</span></span> * <span class="re0">#p-cactions</span> li a <span class="br0">&#123;</span> <span class="kw1">background</span> : <span class="re0">#<span class="nu0">000000</span></span>; <span class="br0">&#125;</span>  
+<span class="re1">.ns<span class="nu0">-12</span></span> * <span class="re0">#p-cactions</span> li a <span class="br0">&#123;</span> <span class="kw1">color</span> : <span class="re0">#00bbbb</span>; <span class="br0">&#125;</span>  
+<span class="coMULTI">/* Colors of bottom of the Help talk pages */</span> 
+<span class="re1">.ns<span class="nu0">-13</span></span> * <span class="re0">#content</span> <span class="br0">&#123;</span> <span class="kw1">background</span> : <span class="re0">#<span class="nu0">000000</span></span>; <span class="br0">&#125;</span> 
+<span class="re1">.ns<span class="nu0">-13</span></span> * <span class="re0">#content</span> <span class="br0">&#123;</span> <span class="kw1">color</span> : <span class="re0">#c0c0c0</span>; <span class="br0">&#125;</span> 
+<span class="re1">.ns<span class="nu0">-13</span></span> * <span class="re0">#p-cactions</span> li <span class="br0">&#123;</span> <span class="kw1">background</span> : <span class="re0">#<span class="nu0">000000</span></span>; <span class="br0">&#125;</span> 
+<span class="re1">.ns<span class="nu0">-13</span></span> * <span class="re0">#p-cactions</span> li a <span class="br0">&#123;</span> <span class="kw1">background</span> : <span class="re0">#<span class="nu0">000000</span></span>; <span class="br0">&#125;</span>  
+<span class="re1">.ns<span class="nu0">-13</span></span> * <span class="re0">#p-cactions</span> li a <span class="br0">&#123;</span> <span class="kw1">color</span> : <span class="re0">#00bbbb</span>; <span class="br0">&#125;</span>  
+<span class="coMULTI">/* Colors of bottom of the Category page talk */</span> 
+<span class="re1">.ns<span class="nu0">-15</span></span> * <span class="re0">#content</span> <span class="br0">&#123;</span> <span class="kw1">background</span> : <span class="re0">#<span class="nu0">000000</span></span>; <span class="br0">&#125;</span> 
+<span class="re1">.ns<span class="nu0">-15</span></span> * <span class="re0">#content</span> <span class="br0">&#123;</span> <span class="kw1">color</span> : <span class="re0">#c0c0c0</span>; <span class="br0">&#125;</span> 
+<span class="re1">.ns<span class="nu0">-15</span></span> * <span class="re0">#p-cactions</span> li <span class="br0">&#123;</span> <span class="kw1">background</span> : <span class="re0">#<span class="nu0">000000</span></span>; <span class="br0">&#125;</span> 
+<span class="re1">.ns<span class="nu0">-15</span></span> * <span class="re0">#p-cactions</span> li a <span class="br0">&#123;</span> <span class="kw1">background</span> : <span class="re0">#<span class="nu0">000000</span></span>; <span class="br0">&#125;</span>  
+<span class="re1">.ns<span class="nu0">-15</span></span> * <span class="re0">#p-cactions</span> li a <span class="br0">&#123;</span> <span class="kw1">color</span> : <span class="re0">#00bbbb</span>; <span class="br0">&#125;</span>  
+&nbsp;
+<span class="coMULTI">/* The bar at the bottom of the page */</span>
+<span class="re0">#footer</span> <span class="br0">&#123;</span>
+    <span class="kw1">background-color</span>: Black;
+    <span class="kw1">color</span>: <span class="re0">#c0c0c0</span>;
+    <span class="kw1">border-top</span>: <span class="re3">1px</span> <span class="kw2">solid</span> <span class="re0">#ff8f00</span>;
+    <span class="kw1">border-bottom</span>: <span class="re3">1px</span> <span class="kw2">solid</span> <span class="re0">#ff8f00</span>;
+    <span class="kw1">margin</span>: <span class="nu0">0</span><span class="re1"><span class="re3">.6em</span></span> <span class="re3">0em</span> <span class="re3">1em</span> <span class="re3">0em</span>;
+    <span class="kw1">padding</span>: <span class="nu0">0</span><span class="re1"><span class="re3">.4em</span></span> <span class="re3">0em</span> <span class="nu0">1</span><span class="re1"><span class="re3">.2em</span></span> <span class="re3">0em</span>;
+    <span class="kw1">text-align</span>: <span class="kw2">center</span>;
+    <span class="kw1">font-size</span>: <span class="re3"><span class="nu0">90</span>%</span>;
+<span class="br0">&#125;</span>
+<span class="coMULTI">/* The category box */</span>
+<span class="re0">#catlinks</span> <span class="br0">&#123;</span>
+    border<span class="re2">:<span class="re3">1px</span></span> <span class="kw2">solid</span> <span class="re0">#352f5f</span>;
+    <span class="kw1">background-color</span>:<span class="re0">#<span class="nu0">000000</span></span>;
+    <span class="kw1">color</span>: <span class="re0">#00aaaa</span>;
+    padding<span class="re2">:<span class="re3">5px</span></span>;
+    <span class="kw1">margin-top</span>: <span class="re3">1em</span>;
+    <span class="kw1">clear</span>: <span class="kw2">both</span>;
+<span class="br0">&#125;</span>
+<span class="coMULTI">/* the images: better to hold them on same background as main */</span>
+img <span class="br0">&#123;</span>
+    <span class="kw1">border</span>: <span class="re3">2px</span> <span class="kw2">solid</span> <span class="re0">#<span class="nu0">008000</span></span>;
+    <span class="kw1">background-color</span>: <span class="kw1">black</span>;
+<span class="br0">&#125;</span>
+&nbsp;
+<span class="coMULTI">/* &lt;/pre&gt; */</span></pre></div><div class="printfooter">
+Retrieved from "<a href="http://en.wikipedia.org/wiki/User:Stevertigo/monobook.css">http://en.wikipedia.org/wiki/User:Stevertigo/monobook.css</a>"</div>
+						<!-- end content -->
+			<div class="visualClear"></div>
+		</div>
+	</div>
+		</div>
+		<div id="column-one">
+	<div id="p-cactions" class="portlet">
+		<h5>Views</h5>
+		<div class="pBody">
+			<ul>
+					 <li id="ca-nstab-user" class="selected"><a href="/wiki/User:Stevertigo/monobook.css" title="View the user page [c]" accesskey="c">User page</a></li>
+					 <li id="ca-talk"><a href="/wiki/User_talk:Stevertigo/monobook.css" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+					 <li id="ca-viewsource"><a href="/w/index.php?title=User:Stevertigo/monobook.css&amp;action=edit" title="This page is protected. You can view its source. [e]" accesskey="e">View source</a></li>
+					 <li id="ca-history"><a href="/w/index.php?title=User:Stevertigo/monobook.css&amp;action=history" title="Past versions of this page [h]" accesskey="h">History</a></li>
+				</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-personal">
+		<h5>Personal tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="pt-login"><a href="/w/index.php?title=Special:Userlogin&amp;returnto=User:Stevertigo/monobook.css" title="You are encouraged to log in, it is not mandatory however. [o]" accesskey="o">Sign in / create account</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-logo">
+		<a style="background-image: url(/images/wiki-en.png);" href="/wiki/Main_Page" title="Visit the Main Page [z]" accesskey="z"></a>
+	</div>
+	<script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+		<div class='portlet' id='p-navigation'>
+		<h5>Navigation</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-Main-page"><a href="/wiki/Main_Page">Main page</a></li>
+				<li id="n-Contents"><a href="/wiki/Wikipedia:Contents">Contents</a></li>
+				<li id="n-Featured-content"><a href="/wiki/Wikipedia:Featured_content">Featured content</a></li>
+				<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+				<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random page [x]" accesskey="x">Random article</a></li>
+			</ul>
+		</div>
+	</div>
+		<div class='portlet' id='p-interaction'>
+		<h5>interaction</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-About-Wikipedia"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+				<li id="n-portal"><a href="/wiki/Wikipedia:Community_Portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+				<li id="n-recentchanges"><a href="/wiki/Special:Recentchanges" title="The list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+				<li id="n-uploadwizard"><a href="/wiki/Wikipedia:Upload">File upload wizard</a></li>
+				<li id="n-contact"><a href="/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+				<li id="n-sitesupport"><a href="http://wikimediafoundation.org/wiki/Fundraising" title="Support us">Make a donation</a></li>
+				<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+			</ul>
+		</div>
+	</div>
+		<div id="p-search" class="portlet">
+		<h5><label for="searchInput">Search</label></h5>
+		<div id="searchBody" class="pBody">
+			<form action="/wiki/Special:Search" id="searchform"><div>
+				<input id="searchInput" name="search" type="text" title="Search Wikipedia [f]" accesskey="f" value="" />
+				<input type='submit' name="go" class="searchButton" id="searchGoButton"	value="Go" />&nbsp;
+				<input type='submit' name="fulltext" class="searchButton" id="mw-searchButton" value="Search" />
+			</div></form>
+		</div>
+	</div>
+	<div class="portlet" id="p-tb">
+		<h5>Toolbox</h5>
+		<div class="pBody">
+			<ul>
+				<li id="t-whatlinkshere"><a href="/wiki/Special:Whatlinkshere/User:Stevertigo/monobook.css" title="List of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+				<li id="t-recentchangeslinked"><a href="/wiki/Special:Recentchangeslinked/User:Stevertigo/monobook.css" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+<li id="t-upload"><a href="/wiki/Special:Upload" title="Upload images or media files [u]" accesskey="u">Upload file</a></li>
+<li id="t-specialpages"><a href="/wiki/Special:Specialpages" title="List of all special pages [q]" accesskey="q">Special pages</a></li>
+				<li id="t-print"><a href="/w/index.php?title=User:Stevertigo/monobook.css&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				<li id="t-permalink"><a href="/w/index.php?title=User:Stevertigo/monobook.css&amp;oldid=44148789" title="Permanent link to this version of the page">Permanent link</a></li>			</ul>
+		</div>
+	</div>
+		</div><!-- end of the left (by default at least) column -->
+			<div class="visualClear"></div>
+			<div id="footer">
+				<div id="f-poweredbyico"><a href="http://www.mediawiki.org/"><img src="/skins-1.5/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" /></a></div>
+				<div id="f-copyrightico"><a href="http://wikimediafoundation.org/"><img src="/images/wikimedia-button.png" border="0" alt="Wikimedia Foundation"/></a></div>
+			<ul id="f-list">
+				<li id="lastmod"> This page was last modified 02:17, 17 March 2006.</li>
+				<li id="copyright">All text is available under the terms of the <a class='internal' href="/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License" title="Wikipedia:Text of the GNU Free Documentation License">GNU Free Documentation License</a>. (See <b><a class='internal' href="/wiki/Wikipedia:Copyrights" title="Wikipedia:Copyrights">Copyrights</a></b> for details.) <br /> Wikipedia&reg; is a registered trademark of the <a href="http://www.wikimediafoundation.org">Wikimedia Foundation, Inc</a>., a US-registered <a class='internal' href="/wiki/501%28c%29#501.28c.29.283.29" title="501(c)(3)">501(c)(3)</a> <a href="http://wikimediafoundation.org/wiki/Deductibility_of_donations">tax-deductible</a> <a class='internal' href="/wiki/Non-profit_organization" title="Non-profit organization">nonprofit</a> <a href="/wiki/Charitable_organization" title="Charitable organization">charity</a>.<br /></li>
+				<li id="privacy"><a href="http://wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+				<li id="about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+				<li id="disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+			</ul>
+		</div>
+		
+	
+		<script type="text/javascript">if (window.runOnloadHook) runOnloadHook();</script>
+</div>
+<!-- Served by srv114 in 0.391 secs. --></body></html>
